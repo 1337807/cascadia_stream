@@ -1,3 +1,60 @@
-// Place all the styles related to the welcome controller here.
-// They will automatically be included in application.css.
-// You can use Sass (SCSS) here: http://sass-lang.com/
+div#content {
+  width: 1000px;
+  text-align: center;
+  margin: auto;
+}
+
+object#justintv {
+  border: 3px solid black;
+}
+
+div#logo_bar img {
+  width: 117px;
+  height: 117px;
+}
+
+div#logo_wrapper {
+  padding: 20px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+div#logo_bar img.cloudability {
+  height: auto;
+}
+
+div#logo_bar img.engine_yard {
+  width: auto;
+}
+
+div#logo_bar img.github {
+  height: auto;
+}
+
+div#logo_bar img.new_relic {
+  width: auto;
+}
+
+div#logo_bar img.ninefold {
+  width: auto;
+}
+
+div#logo_bar img.nird {
+  height: auto;
+}
+
+div#logo_bar img.puppet {
+  width: auto;
+}
+
+div#logo_bar img.simply_measured {
+  height: auto;
+}
+
+div#logo_bar img.sweetspot {
+  height: auto;
+}
+
+div#logo_bar img.g5 {
+  width: auto;
+}
