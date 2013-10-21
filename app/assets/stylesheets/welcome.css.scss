@@ -9,8 +9,8 @@ object#justintv {
 }
 
 div#logo_bar img {
-  width: 117px;
-  height: 117px;
+  width: 100px;
+  height: 100px;
 }
 
 div#logo_wrapper {
@@ -58,5 +58,10 @@ div#logo_bar img.sweetspot {
 
 div#logo_bar img.simply_measured {
   width: 160px;
+  height: auto;
+}
+
+div#logo_bar img.crowd_compass {
+  width: 260px;
   height: auto;
 }
