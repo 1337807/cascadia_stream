@@ -1,17 +1,44 @@
 div#content {
-  width: 1000px;
+  width: 1800px;
   text-align: center;
   margin: auto;
-  padding-top: 50px;
+  padding-top: 150px;
 }
 
-object#justintv {
-  border: 3px solid black;
+div#logo_column1 {
+  padding-top: 100px;
 }
 
-div#logo_bar img {
+div#logo_column1 div#logo_wrapper {
+  margin: auto;
+}
+
+div#logo_column1 div#logo_wrapper {
+  margin: auto;
+}
+
+div#center_column {
+  float: left;
+  width: 1200px;
+}
+
+div#center_column > div {
+  margin: auto;
+}
+
+img {
   width: 100px;
   height: 100px;
+}
+
+div#logo_column1, div#logo_column2 {
+  width: 300px;
+  float: left;
+  padding-top: 220px;
+}
+
+div#logo_column1 div, div#logo_column2 div {
+  float: none;
 }
 
 div#logo_wrapper {
@@ -20,109 +47,109 @@ div#logo_wrapper {
   vertical-align: middle;
 }
 
-div#logo_bar img.cloudability {
+img.cloudability {
   height: auto;
 }
 
-div#logo_bar img.engine_yard {
+img.engine_yard {
   width: auto;
 }
 
-div#logo_bar img.github {
+img.github {
   height: auto;
 }
 
-div#logo_bar img.new_relic {
+img.new_relic {
   width: auto;
 }
 
-div#logo_bar img.ninefold {
+img.ninefold {
   width: auto;
 }
 
-div#logo_bar img.nird {
+img.nird {
   width: 140px;
   height: auto;
 }
 
-div#logo_bar img.puppet {
+img.puppet {
   width: auto;
 }
 
-div#logo_bar img.g5 {
+img.g5 {
   width: auto;
 }
 
-div#logo_bar img.sweetspot {
+img.sweetspot {
   height: auto;
 }
 
-div#logo_bar img.simply_measured {
+img.simply_measured {
   width: 160px;
   height: auto;
 }
 
-div#logo_bar img.crowd_compass {
+img.crowd_compass {
   width: 260px;
   height: auto;
 }
 
-div#logo_bar img.esri {
+img.esri {
   width: 200px;
   height: auto;
 }
 
-div#logo_bar img.goldstar {
+img.goldstar {
   width: 240px;
   height: auto;
 }
 
-div#logo_bar img.livingsocial {
+img.livingsocial {
   width: 250px;
   height: auto;
 }
 
-div#logo_bar img.avvo {
+img.avvo {
   width: 180px;
   height: auto;
 }
 
-div#logo_bar img.covermymeds {
+img.covermymeds {
   width: 280px;
   height: auto;
 }
 
-div#logo_bar img.culture-foundry {
+img.culture-foundry {
   width: 150px;
   height: auto;
 }
 
-div#logo_bar img.elemental {
+img.elemental {
   width: 200px;
   height: auto;
 }
 
-div#logo_bar img.honeybadger {
+img.honeybadger {
   width: 200px;
   height: auto;
 }
 
-div#logo_bar img.substantial {
+img.substantial {
   width: 260px;
   height: auto;
 }
 
-div#logo_bar img.wepay {
+img.wepay {
   width: 150px;
   height: auto;
 }
 
-div#logo_bar img.whitepages {
+img.whitepages {
   width: 180px;
   height: auto;
 }
 
-div#logo_bar img.ruby-central {
+img.ruby-central {
   width: 220px;
   height: auto;
 }
